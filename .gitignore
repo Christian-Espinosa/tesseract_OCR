@@ -1,0 +1,19 @@
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore build directories
+build/
+dist/
+img/
+img_output/
+img_processed/
+env/
+
+# Ignore IDE files
+.idea/
+.vscode/
+
+# Ignore files with sensitive information
+credentials.txt
+paths.py
